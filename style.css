@@ -1,0 +1,16 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background: rgb(19,34,57);
+  background: radial-gradient(circle, rgba(19,34,57,1) 0%, rgba(13,14,32,1) 100%);
+  font-family: "Times New Roman", Georgia, Serif;
+  text-align: center;
+}
+
+h1 {
+  color: #0BA545;
+  text-shadow: #07723C 1px 0 10px;
+}
