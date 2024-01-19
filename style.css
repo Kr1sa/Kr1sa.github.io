@@ -60,39 +60,39 @@ a:nth-child(2) {
   width: 20%;
 }
 a:nth-child(3) {
-  width: 192px;
+  width: 20%;
 }
 a:nth-child(4) {
-  width: 192px;
+  width: 20%;
 }
 a:nth-child(5) {
-  width: 192px;
+  width: 20%;
 }
 
 nav .start-home, a:nth-child(1) {
-  width: 192px;
+  width: 20%;
   background-color: #1C3355;
   border-top-left-radius: 8px;
   border-bottom-left-radius: 8px;
 }
 
 nav .start-home, a:nth-child(2) {
-  width: 192px;
+  width: 20%;
   background-color: #132239;
 }
 
 nav .start-home, a:nth-child(3) {
-  width: 192px;
+  width: 20%;
   background-color: #132239;
 }
 
 nav .start-home, a:nth-child(4) {
-  width: 192px;
+  width: 20%;
   background-color: #132239;
 }
 
 nav .start-home, a:nth-child(5) {
-  width: 192px;
+  width: 20%;
   background-color: #132239;
   border-top-right-radius: 8px;
   border-bottom-right-radius: 8px;    
